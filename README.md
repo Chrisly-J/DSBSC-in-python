@@ -48,10 +48,9 @@ plt.plot(t,s)
 
 <img width="710" height="546" alt="image" src="https://github.com/user-attachments/assets/594e4cd4-8682-4973-bf57-509b41c3916c" />
 
-
 ## Tablular Column
 
-<img width="926" height="653" alt="image" src="https://github.com/user-attachments/assets/1420a74a-2ee9-4451-8d42-fe5173ae3573" />
+<img width="625" height="442" alt="Screenshot 2025-11-04 230940" src="https://github.com/user-attachments/assets/e16da9d6-a22f-46e2-aa73-e0846c33d7ce" />
 
 ## Result
 
